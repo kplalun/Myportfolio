@@ -44,7 +44,7 @@ const Section2 = () => {
               <img src={image6}></img>
             </div>
           </div>
-          <a href="#" className="text-sm font-normal sm:mt-[100px] text-[#22222280] ">
+          <a href="#" className="show text-sm font-normal sm:mt-[100px] text-[#22222280] ">
             See More
           </a>
         </div>
