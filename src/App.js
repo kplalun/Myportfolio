@@ -1,13 +1,13 @@
 import React from "react";
 import Footer from "./Components/Footer";
-import Nav2 from "./Components/Nav2";
+import Nav from "./Components/Nav";
 import Section1 from "./Components/Section1";
 import Section2 from "./Components/Section2";
 
 function App() {
   return (
     <div className="App">
-      <Nav2 />
+      <Nav />
       <Section1 />
       <Section2 />
       <Footer/>
