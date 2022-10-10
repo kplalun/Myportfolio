@@ -6,7 +6,7 @@ import Squircle from "../image/Squircle.png";
 
 const Footer = () => {
   return (
-    <div className="sm:w-full w-[375px] bg-[#F1F1F1]  ">
+    <div className="sm:w-full w-[500px] bg-[#F1F1F1]  ">
       <div className="flex sm:flex-row sm:justify-around sm:items-center h-[170px] flex-col justify-between items-center   ">
         <div className="sm:mt-0 mt-[36px]">kp.lalun@gmail.com</div>
         <div>© Copyright 2022 | pokdeng</div>

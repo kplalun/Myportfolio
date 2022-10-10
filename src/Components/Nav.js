@@ -10,7 +10,7 @@ import "../index.css";
 const Nav = () => {
   return (
     <>
-      <div className="sm:w-full w-[375px] ">
+      <div className="sm:w-full w-[500px] ">
         <div className="bg-[#ef4444]  Relative h-[109px] sm:h-36 ">
           <div className=" text-[2.5rem] font-semibold text-white text-center  sm:h-24 sm:absolute sm:top-[2.6rem] sm:left-[10rem]  sm:text-black ">
             My Profile

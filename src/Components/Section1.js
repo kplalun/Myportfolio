@@ -7,7 +7,7 @@ import star from "../image/star.png";
 const Section1 = () => {
   return (
     <>
-      <div className="sm:w-full w-[375px] ">
+      <div className="sm:w-full w-[500px] ">
         <div className=" text-center sm:mt-[90px] mt-[50px] ">
           <h1 className="font-semibold sm:text-5xl text-3xl">Why Hire Me?</h1>
         </div>

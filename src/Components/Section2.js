@@ -11,7 +11,7 @@ import "../index.css";
 const Section2 = () => {
   return (
     <>
-      <div className="sm:w-full sm:mt-[125px] w-[375px]  ">
+      <div className="sm:w-full sm:mt-[125px] w-[500px]  ">
         <div className="flex justify-between ml-[100px] mr-[100px] relative">
           <h1 className="font-semibold text-5xl sm:mt-[100px] relative mt-[36px]">Portfolio</h1>
           <a href="#" className="none text-sm font-normal sm:mt-[100px] text-[#22222280] ">
