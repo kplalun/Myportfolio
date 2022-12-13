@@ -29,7 +29,7 @@ const Nav = () => {
               a Frontend developer.
             </h1>
             <h3 className="text-lg mt-12  ">
-              Frontend developer based in tehran, Iran. I am coding with a clean
+              Frontend developer based in Bangkok, Thailand. I am coding with a clean
               and beautiful problem solving in mind.
             </h3>
 
@@ -94,7 +94,7 @@ const Nav = () => {
                 <img
                   src={BulletPoints}
                   alt="img_profile"
-                  className=" z-0 absolute bottom-16 right-1/2"
+                  className=" z-0 absolute bottom-3 right-1/2"
                 ></img>
                 <img
                   src={BulletPoints}
